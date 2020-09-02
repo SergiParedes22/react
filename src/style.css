@@ -1,0 +1,40 @@
+.logo {
+    width: 50%;
+    margin: 40px 25%;
+}
+
+.card:hover {
+    cursor: pointer;
+    background-color: #ececec;
+}
+
+.card H2 {
+    font-size: 1.3em;
+    color: #333;
+    margin: 0;
+    width: 95%;
+}
+
+.card:hover H2 {
+    color: #222;
+}
+
+.card {
+    margin-bottom: 10px;
+    padding-left: 2.5%;
+}
+
+.card img {
+    width: 95%;
+    margin-top: 2.5%
+}
+
+.card em {
+    font-size: 13px;
+    font-style: normal;
+    color: #999;
+}
+
+.card-body {
+    padding: 0.55rem;
+}
